@@ -1,24 +1,6 @@
 # README
+In browswer game, guess the longest word possible made from 10 random letters of the aplphabet. The longer the word, the more points you get.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made with Rails 6, bootstrap, and HTML.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+After cloning the repository, lauch a rails server from the 'rails-longest-word-game' folder with the "rails s" command. Type "localhost:3000" into your browser and enjoy!
